@@ -19,7 +19,7 @@
  * @version    $Id: Source.php 24594 2012-01-05 21:27:01Z matthew $
  */
 
-require_once 'Zend/Feed/Writer/Feed/FeedAbstract.php';
+// require_once 'Zend/Feed/Writer/Feed/FeedAbstract.php';
 
  /**
  * @category   Zend

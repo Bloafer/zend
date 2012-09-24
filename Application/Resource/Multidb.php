@@ -20,9 +20,9 @@
  * @version    $Id: Multidb.php 24594 2012-01-05 21:27:01Z matthew $
  */
 
-require_once 'Zend/Application/Resource/ResourceAbstract.php';
+// require_once 'Zend/Application/Resource/ResourceAbstract.php';
 
-require_once 'Zend/Db/Table.php';
+// require_once 'Zend/Db/Table.php';
 
 /**
  */

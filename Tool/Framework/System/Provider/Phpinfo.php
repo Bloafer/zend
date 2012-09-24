@@ -19,7 +19,7 @@
  * @version    $Id: Phpinfo.php 24594 2012-01-05 21:27:01Z matthew $
  */
 
-require_once 'Zend/Tool/Framework/Provider/Interface.php';
+// require_once 'Zend/Tool/Framework/Provider/Interface.php';
 
 /**
  * @category   Zend
